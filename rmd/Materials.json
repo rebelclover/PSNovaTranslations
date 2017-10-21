@@ -1407,7 +1407,7 @@
   "350281": {
     "OriginalText": "ダーカーのヒレ刀",
     "Text": "Darker Sword Fin",
-    "Enabled": false
+    "Enabled": true
   },
   "350282": {
     "OriginalText": "ダーカーの完全な鋭ヒレ刀",
@@ -1421,8 +1421,8 @@
   },
   "350284": {
     "OriginalText": "ヴィマフレザールの硬皮枝",
-    "Text": "",
-    "Enabled": false
+    "Text": "Vimafresar Hard Scalp",
+    "Enabled": true
   },
   "350285": {
     "OriginalText": "バレダイナスのサイト",
